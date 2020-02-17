@@ -1,0 +1,19 @@
+{
+  "name": "video",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "2FanTM#7771",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
